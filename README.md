@@ -12,7 +12,7 @@ This repository contains code and data for the AI Capstone Project on bird vocal
 │   │── species2.zip
 │   │── species3.zip
 │   │── species4.zip
-│── 111550182/
+│── 111550182/             # User own traing code included
 │── 110550205/
 │── README.md
 ```
